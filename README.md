@@ -4,18 +4,18 @@
 **The Cubo** is a captivating and immersive game developed using Unity Engine and programmed in C#. This project showcases my journey of self-learning game development and demonstrates my proficiency in Unity and C#.
 
 ## Video Showcase
-https://github.com/TalhaK-20/The-Cubo-Version-0.5/assets/131589476/b544df25-a3f6-415d-8084-cc3e7eec8667
+https://github.com/TalhaK-20/The-Cubo-Version-0.5/assets/131589476/23871bf1-38e2-4293-ba0e-ace2bce64a38
 
 ## Features
 - **Engaging Gameplay:** Dive into a thrilling gaming experience with captivating gameplay mechanics carefully crafted to keep players entertained.
 - **Immersive Environments:** Explore meticulously designed worlds filled with stunning visuals and immersive environments that draw players into the game's universe.
 - **Dynamic Characters:** Encounter a variety of dynamic characters, each with their own unique traits and personalities, adding depth to the gaming experience.
-- **Challenging Levels:** Navigate through challenging levels that test your skills and offer a rewarding sense of accomplishment upon completion. The length of the path is being created longer, and new difficult obstacles of red color with different shapes and angles are added in this 0.5 version.
+- **Challenging Levels:** Navigate through challenging levels that test your skills and offer a rewarding sense of accomplishment upon completion. The length of the path is being created longer, and new difficult obstacles of red colour with different shapes and angles are added in this 0.5 version.
 - **Interactive Elements:** Interact with a variety of in-game elements, including objects, puzzles, and obstacles, to progress through the game.
 
 ## Technologies Used
 - **Unity Engine:** Utilized for game development, providing a robust framework for creating interactive and visually appealing games.
-- **C# Programming Language:** Leveraged to implement game logic, scripting behaviors, and creating interactive elements within the game.
+- **C# Programming Language:** Leveraged to implement game logic, scripting behaviours, and creating interactive elements within the game.
 - **Audio Integration:** Integrated sound effects and background music to enhance the overall gaming experience and immersion.
 
 ## Development Process
